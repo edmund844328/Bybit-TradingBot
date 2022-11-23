@@ -1,1 +1,1 @@
-# NFT-TradingBot
+# Bybit-TradingBot
